@@ -7,7 +7,7 @@ This project aims to unveil insights and patterns within a crime dataset using P
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b>
-- <b>Jupyter Notebook</b>
+- <b>Jupyter Notebooks</b>
 
 <h2>Environments Used </h2>
 
